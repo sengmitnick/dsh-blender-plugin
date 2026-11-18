@@ -4,6 +4,8 @@
 
 DSH × Blender 把 DeepSeek Harness 接到 Blender，让 AI 能在真实 Blender 会话里建模、检查、验收和导出。默认走 GUI：先打开 Blender、连接 addon，AI 对着你正在看的场景做“看一眼 → 改一步 → 再确认”。没有 GUI 时，后台无头作业（`blender_run(kind="headless")`）仍能执行脚本并返回渲染图。
 
+在青狮龙虾客户端打开「插件 → 插件市场」即可安装青狮版本 `@qinglion/dsh-blender-plugin`。Cordis 会加载这个带命名空间的包。
+
 ## 目录
 
 - [功能](#功能)

@@ -11,5 +11,5 @@
 # 切换步骤与回滚见 docs/DSH-更新适配.md。
 - insert:
     - id: dsh-blender-plugin
-      name: 'dsh-blender-plugin'
+      name: '@qinglion/dsh-blender-plugin'
       config: {}
